@@ -22,3 +22,21 @@ Learn how to visually improve an existing HTML structure using CSS,
 without rewriting the HTML from scratch.
 
 ## 🗂 Project structure
+frontend-foundations/
+│
+├─ index.html                   ← Homepage
+├─ resume.html                  ← Resume page
+│
+├─ css/                         ← Folder containing CSS files
+│   └─ styles.css               ← Main stylesheet
+│
+├─ images/                      ← Folder containing project images
+│   ├─ bg-home-office-studio.jpg        ← Background image for homepage
+│   ├─ icon-logo-instagram.png          ← Instagram icon
+│   ├─ icon-logo-ko-fi.png              ← Ko-fi icon
+│   ├─ icon-logo-linkedin.png           ← LinkedIn icon
+│   ├─ icon-logo-medium.png             ← Medium icon
+│   ├─ icon-logo-twitter.png            ← Twitter icon
+│   └─ icon-logo-youtube.png            ← YouTube icon
+│
+└─ README.md                    ← Project documentation
