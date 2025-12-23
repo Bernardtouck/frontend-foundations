@@ -22,6 +22,7 @@ Learn how to visually improve an existing HTML structure using CSS,
 without rewriting the HTML from scratch.
 
 ## 🗂 Project structure
+```
 frontend-foundations/
 │
 ├─ index.html                   ← Homepage
@@ -40,3 +41,4 @@ frontend-foundations/
 │   └─ icon-logo-youtube.png            ← YouTube icon
 │
 └─ README.md                    ← Project documentation
+```
