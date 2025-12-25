@@ -17,9 +17,20 @@ The goal is to practice HTML and CSS by working on small, concrete exercises.
 - Aligning images and content
 - Creating clear navigation links between pages
 
+### Day 2 – CSS Theming & Layout Structure
+- Creating and using a color palette
+- Applying consistent colors across pages
+- Using classes (`class=""`) and reusable components (`.btn`, `.home`, etc.)
+- Structuring CSS into logical sections
+- Adding background images and overlays
+- Styling the footer and links
+- Updating HTML to match new CSS classes
+
 ## 🎯 Objective
-Learn how to visually improve an existing HTML structure using CSS,
+- Learn how to visually improve an existing HTML structure using CSS,
 without rewriting the HTML from scratch.
+- Learn to improve existing HTML using clean CSS, 
+without rewriting everything — just adding structure, styling, and reusability
 
 ## 🗂 Project structure
 ```
